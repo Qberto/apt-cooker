@@ -1,2 +1,2 @@
 # apt-cooker
-A process driven by the Python API for ArcGIS to develop, maintain, and manage the FAA's APT Living Atlas layer. 
+A process driven by the ArcGIS API for Python to develop, maintain, and manage the FAA's APT Living Atlas layer. 
